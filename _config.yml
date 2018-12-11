@@ -8,8 +8,8 @@
 # General App Info
 #
 app:
-  name: Awesome App # REQUIRED - Enter your app name
-  ios_id: 912209541 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
+  name: Golf.iOwe # REQUIRED - Enter your app name
+  ios_id: 1257460419 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: # Optional - Enter Android app id like: com.example.app
 
   icon: # Leave blank to auto-magically populate
@@ -42,8 +42,8 @@ app:
 #
 # Marketing
 #
-marketing_header: Does Awesome Stuff # Optional
-marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+marketing_header: Calculate Bets Between Friends # Optional
+marketing_desc: "Ever play a round of golf with your friends on the weekend and when you finish up, it takes forever to figure out all of your bets? That's where Golf.iOwe comes in! Golf.iOwe allows you to quickly configure your standing games with your buddies so when you finish your round, all you have to do is enter your score and watch the cash roll in (hopefully). Starting with the ever famous Nassau game type and expanding to more soon!"
 
 #
 # Social Links
@@ -80,21 +80,21 @@ device: iphone-se-silver-vertical # REQUIRED
 #
 # Theme Settings
 #
-background_color: "#989898" # Optional
-background_image: /images/backgrounds/58-usersthink-stock-image-web.jpg # Optional - Use Relative path e.g. images/backgrounds/image.jpg
+background_color: "#1B1B1B" # Optional
+background_image: # Optional - Use Relative path e.g. images/backgrounds/image.jpg
 text_color: white # Optional
-link_color: # Optional
+link_color: "#62F19E" # Optional
 social_link_color: white # Optional
-download_button_background_color: "#0191FF" # Optional
-download_button_text_color: white; # Optional
+download_button_background_color: "#62F19E" # Optional
+download_button_text_color: "#1B1B1B" # Optional
 
 #
 # Site Info
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: # Optional - Enter your site title
-description: # Optional - Enter your site description
+title: Golf.iOwe # Optional - Enter your site title
+description:
 
 #
 # Google Analytics
